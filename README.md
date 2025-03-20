@@ -1,5 +1,9 @@
-# Tatidutra
-Olá, eu sou a Tatiana, estudante de Cibersegurança e atualmente atuo na área de sustentação de sistemas e aplicações.
+## Tatiana Dutra.
+
+## Sobre
+
+* 📚 Sou estudante de Cibersegurançe e assuntos relacionados à Segurança da Informação.
+* 💻 Atualmente atuo na área de sustentação de sistemas e aplicações.
 
 <div> 
   <a href="https://www.linkedin.com/in/tatiana-dutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
