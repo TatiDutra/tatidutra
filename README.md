@@ -1,9 +1,8 @@
 ## Tatiana Dutra.
 
-## Sobre
+## Olá, tudo bem?
 
-* 📚 Sou estudante de Cibersegurançe e assuntos relacionados à Segurança da Informação.
-* 💻 Atualmente atuo na área de sustentação de sistemas e aplicações.
+### Atualmente atuo como Analista de Sistemas, busco transição de carreira para área de Segurança da Informação.
 
 <div> 
   <a href="https://www.linkedin.com/in/tatiana-dutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
