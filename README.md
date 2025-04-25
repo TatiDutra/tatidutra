@@ -1,6 +1,6 @@
-## Tatiana Dutra.
+## Olá!
 
-## Olá! Tudo bem?
+## Sou a Tatiana.
 
 ### Atualmente atuo como Analista de Sistemas, busco transição de carreira para área de Segurança da Informação.
 
