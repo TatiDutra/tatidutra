@@ -1,6 +1,4 @@
-## Olá!
-
-## Sou a Tatiana.
+## Olá! Eu sou a Tatiana. bem vindo a minha página do Github.
 
 ### Atualmente atuo como Analista de Sistemas, busco transição de carreira para área de Segurança da Informação.
 
