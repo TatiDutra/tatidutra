@@ -14,9 +14,6 @@ Atuar em posições relacionadas a:
 - NOC (Network Operations Center)
 - Gestão de Incidentes
 - Monitoramento e Observabilidade
-- Cyber Defense
-- Segurança da Informação
-- Cloud Security
 
 ---
 
